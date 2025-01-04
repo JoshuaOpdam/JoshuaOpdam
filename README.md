@@ -7,4 +7,4 @@ assessments on Software Design and Development, Information Processes and Techno
 If you would like to use my code please reach out as I would love to distribute the projects that I've 
 put a lot of time and effort into.
 
-Please contanct me at: joshua.opdam@gmail.com 
+Please contanct me at: h3o-josh@hotmail.com
