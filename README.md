@@ -1,10 +1,7 @@
-Hello, I’m Joshua Opdam a curious and enthusistic student from Inner West Sydney, Australia.
+Hello! I’m Joshua Opdam, a curious and enthusiastic student from Inner West Sydney, Australia.
 
-I have a love and passion for computing, robotics, electrical engeneering as well as social networking.
-This is my github where I show the projects that I have created myself for a multitude of school related
-assessments on Software Design and Development, Information Processes and Technology and Multi-Media.
+I’m passionate about computing, robotics, electrical engineering, and social networking. This GitHub showcases the projects I’ve developed for various school-related assessments, including Software Design and Development, Information Processes and Technology, and Multimedia.
 
-If you would like to use my code please reach out as I would love to distribute the projects that I've 
-put a lot of time and effort into.
+If you’d like to use any of my code, feel free to reach out! I’d be delighted to share the projects I’ve invested so much time and effort into.
 
-Please contanct me at: h3o-josh@hotmail.com
+You can contact me at: h3o-josh@hotmail.com
